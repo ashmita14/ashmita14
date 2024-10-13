@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently a graduate student of Physics at Indiana University, Indianapolis.
+I am currently a graduate student of Physics at Indiana University, Indianapolis (previously IUPUI).
 
 - My research interests lie broadly in the field of theoretical and computational physics, with emphasis on gravity, dark matter and quantum systems. 
 - I am currently working on studying the interaction of patch potentials of a conductor plate with an optically trapped quantum dot in a harmonic potential, placed approximately 200nm above the plate.
