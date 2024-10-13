@@ -14,4 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a graduate student at Indiana University, Indianapolis. 
+I am currently a graduate student of Physics at Indiana University, Indianapolis.
+
+- My research interests lie broadly in theoretical and computational physics, with emphasis on gravity, dark matter and quantum systems. 
+- I am currently working on studying the interaction of patch potentials of a conductor plate with an optically trapped quantum dot in a harmonic potential, placed approximately 200nm above the plate.
+- Previously I have worked on the topics of axions in particle physics and cosmology, AdS black-holes, neutrino physics, indirect detection of dark matter and basics of quantum field theory.
+
+Please look into the repository "ashmita14" to find my project reports and codes.
+
+Contact Information : 
+- Email : ashmitapanda14@gmail.com
+
+
+
