@@ -21,7 +21,7 @@ I am currently a graduate student of Physics at Indiana University, Indianapolis
 - Previously I have worked on the topics of axions in particle physics and cosmology, AdS black-holes, neutrino physics, indirect detection of dark matter and basics of quantum field theory.
 - I obtained my Masters in Physics from NISER (National Institute of Science, Education and Research) India in 2023. Currently pursuing a second masters in Physics (Purdue University Diploma in IU Indianpolis campus).
 
-Please look into the repository "ashmita14" to find my project reports and codes, which have been organised into different branches.
+Please look into the repository "ashmita14" to find my project reports and codes, which have been organised into different folders.
 
 Contact Information : 
 - Email : ashmitapanda14@gmail.com
