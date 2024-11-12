@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am currently a graduate student of Physics at Indiana University, Indianapolis (previously IUPUI).
 
-- My research interests lie broadly in the field of theoretical and computational physics, with emphasis on gravity, dark matter and quantum systems. 
+- My research interests lie broadly in the field of theoretical and computational physics, with emphasis on gravity, cosmology and quantum systems. 
 - I am currently studying the interaction of patch potentials of a conductor plate with an optically trapped quantum dot in a harmonic potential, placed approximately 200nm above the plate.
 - Previously I have worked on the topics of axions in particle physics and cosmology, AdS black-holes, neutrino physics, indirect detection of dark matter and basics of quantum field theory.
 - I obtained my Masters in Physics from NISER (National Institute of Science, Education and Research) India in 2023. Currently pursuing a second masters in Physics (Purdue University Diploma in IU Indianpolis campus).
