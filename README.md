@@ -24,7 +24,7 @@ I am currently a graduate student of Physics at Indiana University, Indianapolis
 Please look into the repository "ashmita14" to find my project reports and codes, which have been organised into different folders.
 
 Contact Information : 
-- Email : ashmitapanda14@gmail.com
+- Email : ashmitapanda14@gmail.com, ashpanda@iu.edu
 
 
 
