@@ -22,6 +22,7 @@ I am currently a graduate student of Physics at Indiana University, Indianapolis
 - I obtained my Masters in Physics from NISER (National Institute of Science, Education and Research) India in 2023. Currently pursuing a second masters in Physics (Purdue University Diploma in IU Indianpolis campus).
 
 Please look into the repository "ashmita14" to find my project reports and codes, which have been organised into different folders.
+If you find a little more detailed description of my research experiences, along with accessing my project reports, please visit my website : [ashmita-panda](https://sites.google.com/view/ashmita-panda/home)
 
 Contact Information : 
 - Email : ashmitapanda14@gmail.com
